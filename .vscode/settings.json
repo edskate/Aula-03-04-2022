@@ -1,8 +1,12 @@
 {
               "workbench.colorCustomizations": {
                             "titleBar.activeBackground": "#2efc0f"
+<<<<<<< HEAD
               },
               "cSpell.words": [
                             "Instalação"
               ]
+=======
+              }
+>>>>>>> 83d20069db7de04fa1f9089d5ea11d6cababa2ac
 }
