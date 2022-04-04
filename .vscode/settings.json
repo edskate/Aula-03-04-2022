@@ -1,8 +1,12 @@
 {
               "workbench.colorCustomizations": {
                             "titleBar.activeBackground": "#2efc0f"
+<<<<<<< HEAD
               },
               "cSpell.words": [
                             "Instalação"
               ]
+=======
+              }
+>>>>>>> cc67e47 (Lógica de programação)
 }
